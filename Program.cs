@@ -13,7 +13,7 @@ namespace AdvancedCSharp_Delegate_Extensions
     {
         delegate double MyFirstDelegate(int r);
         static void Main(string[] args)
-        {/*
+        {/*Comments
 
             // Step 1 using normal function
             MyFirstDelegate myFirstDelegate = CalculateAreaOfCircle;
